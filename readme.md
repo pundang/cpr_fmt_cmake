@@ -5,3 +5,5 @@
 ## Why?
 
 I made this project because i wanted to learn more about CMake and libraries, also you can use this as a template if you don't want to set up the `CMakeLists.txt` file
+
+![Image showing how the program works](/images/example.png)
