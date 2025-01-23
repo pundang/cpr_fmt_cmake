@@ -29,4 +29,4 @@ FetchContent_Declare(
 
 FetchContent_MakeAvailable(cpr fmt json)
 
-target_link_libraries(${PROJECT_NAME} PRIVATE cpr::cpr fmt::fmt)
+target_link_libraries(${PROJECT_NAME} PRIVATE cpr::cpr fmt::fmt nlohmann_json::nlohmann_json)
